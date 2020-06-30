@@ -1,0 +1,30 @@
+
+Q1:what is cloud
+Cloud computing is the on-demand availability of computer system resources, 
+especially data storage and computing power, without direct active management by the user. 
+
+
+Q2:different types of cloud
+public cloud
+private cloud
+hybrid cloud
+multi cloud
+
+Q3:advantages of cloud
+Efficiency / cost reduction
+Data security
+Scalability
+Mobility
+Disaster recovery
+Control
+
+Q4:Disadvantages
+no longer in control
+may not get all the features
+doesn't meann you shoud do away with servers
+
+
+Q:5 what is ec2
+Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, 
+resizable compute capacity in the cloud. It is designed to make web-scale cloud computing easier for developers. 
+Amazon EC2's simple web service interface allows you to obtain and configure capacity with minimal friction.
